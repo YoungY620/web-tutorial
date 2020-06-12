@@ -4,8 +4,7 @@ module.exports = {
   dest: './dist',
   themeConfig: {
     nav: [
-      { text: '首页', link: '/' },
-      { text: 'Github', link: 'https://github.com/unbyte/web-tutorial' },
+      { text: '首页', link: '/' }
     ],
     sidebar: [
       {
@@ -16,6 +15,10 @@ module.exports = {
           { title: '发展历史', path:'/intro/history'},
         ]
       },
-    ]
+    ],
+    smoothScroll: true,
+    repo: 'unbyte/web-tutorial',
+    editLinks: true,
+    editLinkText: '完善本文档',
   }
 }

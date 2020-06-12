@@ -1,5 +1,11 @@
 module.exports = {
-  title: 'web 零基础入门',
+  title: 'WEB Tutorial',
   description: 'web 零基础入门',
-  dest: './dist'
+  dest: './dist',
+  themeConfig: {
+    nav: [
+      { text: '首页', link: '/' },
+      { text: 'Github', link: 'https://github.com/unbyte/web-tutorial' },
+    ]
+  }
 }

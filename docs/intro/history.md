@@ -10,7 +10,7 @@ sidebarDepth: 2
 
 
 
-## 90年代
+## 80年代
 
 ### 1989
 
@@ -21,7 +21,9 @@ sidebarDepth: 2
 
 <p style="text-align: center"><img src="./assets/Tim-Berners-Lee.jpg" alt="Tim Berners-Lee" style="zoom: 50%"/></p>
 
-当时，Internet 上流行 Gopher 协议，所以 Web 提出的头几年并没有立即流行，人们也没有意识到 Web 比 Gopher 更好。
+当时，Internet 上流行 [Gopher](https://en.wikipedia.org/wiki/Gopher_(protocol)) 协议，所以 Web 提出的头几年并没有立即流行，人们也没有意识到 Web 比 Gopher 更好。
+
+## 90年代
 
 ### 1990
 
